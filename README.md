@@ -1,6 +1,6 @@
 <h1>Portfolio Automated Analysis</h1>
 <p></p>
-<p>This repository is the implementation of <a href="https://www.investopedia.com/terms/m/modernportfoliotheory.asp">Modern Portfolio Theory</a>. </p>
+<p>This repository is an implementation of <a href="https://www.investopedia.com/terms/m/modernportfoliotheory.asp">Modern Portfolio Theory</a>. </p>
 <p></p>
 <h2>How to use it</h2>
 <p>This script collects new data every weekday based on the chosen assets. Every sunday, a script is ran to calculate the optimal allocation for each asset.</p>
