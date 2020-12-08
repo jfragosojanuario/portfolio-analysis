@@ -1,7 +1,3 @@
-# portfolio-analysis
-analyzing my asset portfolio
-
-
 <h1>Portfolio Automated Analysis</h1>
 <p></p>
 <p>This repository is the implementation of <a href="https://www.investopedia.com/terms/m/modernportfoliotheory.asp">Modern Portfolio Theory</a>. </p>
